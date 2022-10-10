@@ -1,4 +1,8 @@
 h1{
+    font-size: 2em;
+    margin: 20px;
+    border-style: solid;
+    border-color: black;
     color:green;
 }
 p{
@@ -8,6 +12,9 @@ p{
     color: blueviolet;
 }
 #section{
+    font-size: 3em;
+    border-style: dashed;
+    border-color: black;
     color: brown;
 }
 a:hover{
