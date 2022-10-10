@@ -21,3 +21,8 @@ p{
 a:hover{
     color: greenyellow;
 }
+#image{
+    height: 50%;
+    width: 50%;
+    align-items: center;
+}
